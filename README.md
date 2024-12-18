@@ -20,17 +20,15 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp sobre IA da CAIXA onde fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo](https://leonardo.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,24 +38,29 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um e-book sobre educação financeira, nicho financeiro e subnicho finanças domésticas. O título deve ser épico e curto e tenha uma temática mais popular. Me liste 5 variações de título                                                      |
+| conteúdo | faça um texto para ebook, com foco em finanças pessoais, listamos as cinco principais formas de elquilibarmos nossas finanças
+
+{REGRAS}
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos em contexto reais
+> Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Leonardo：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A vibrant, professional graphic design featuring a majestic piggy bank in flat vector art style, showcasing strength and empowerment through its radiant glow, with coins and savings accumulating around it in a circular motion, symbolizing growth and prosperity, set against a clean, minimalist background, with the piggy bank's body rendered in a metallic silver color with subtle gradient effects, and its facial features depicted with a determined expression, complete with a small, button nose and a smiling mouth, surrounded by a halo of light that represents wisdom and financial wisdom. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
