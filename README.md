@@ -76,14 +76,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAlessandro Souza<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/alessandro1706">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/alessandrosouza-ti/>LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/alessandrosouza-ce/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
